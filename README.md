@@ -7,7 +7,7 @@
 
 # API conference 2017
 
-This repository is for and about the workshop at [https://apiconference.de/](API conference 2017)
+This repository is for and about the workshop at [API conference 2017](https://apiconference.de/).
 
 ***
 

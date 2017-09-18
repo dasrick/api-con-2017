@@ -1,6 +1,6 @@
 {
   "name": "api-con-2017",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "API conference 2017 - workshop",
   "author": "Enrico Hoffmann <dasrick@gmail.com>",
   "license": "MIT",
@@ -14,5 +14,12 @@
   "homepage": "https://github.com/dasrick/api-con-2017#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jasmine-supertest": "^1.0.0",
+    "mocha": "^3.5.3",
+    "mockery": "^2.1.0",
+    "supertest": "^3.0.0"
   }
 }

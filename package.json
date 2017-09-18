@@ -1,0 +1,18 @@
+{
+  "name": "api-con-2017",
+  "version": "1.0.0",
+  "description": "API conference 2017 - workshop",
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/api-con-2017.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dasrick/api-con-2017/issues"
+  },
+  "homepage": "https://github.com/dasrick/api-con-2017#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

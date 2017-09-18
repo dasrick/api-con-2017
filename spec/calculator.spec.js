@@ -15,6 +15,8 @@ describe('calculator', () => {
             this.calc = new Calculator();
             this.a = Math.floor(Math.random() * 10);
             this.b = Math.floor(Math.random() * 10);
+            // prefix f (describe/it) (ex: fit) will focus - run only this describe/test
+            // prefix x (describe/it) (ex: xit) will exclude - run all other than this describe/test
         });
 
         it('should calc 1 and be 2', () => {

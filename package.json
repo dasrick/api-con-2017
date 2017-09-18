@@ -14,13 +14,15 @@
   },
   "homepage": "https://github.com/dasrick/api-con-2017#readme",
   "scripts": {
-    "test": "jasmine"
+    "test": "jasmine",
+    "watch": "nodemon -w src/**/*.js - w spec/**/*.js --exec jasmine"
   },
   "devDependencies": {
     "jasmine": "^2.8.0",
     "jasmine-supertest": "^1.0.0",
     "mocha": "^3.5.3",
     "mockery": "^2.1.0",
+    "nodemon": "^1.12.1",
     "supertest": "^3.0.0"
   }
 }
